@@ -32,3 +32,20 @@ th{
 table{
     margin:auto;
 }
+td{
+    font-size:50px;
+    background-color:grey;
+}
+img{
+    width:300px;
+}
+h4{
+    background-color:grey;
+    Border:solid;
+}
+#body{
+    background-color:grey;
+    Border:solid;
+    border-color:black;
+    color:black;
+}
