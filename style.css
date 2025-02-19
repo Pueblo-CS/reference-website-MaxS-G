@@ -4,48 +4,80 @@ h1{
     border:solid;
     font-size:50px;
 }
+
 .GUH{
     text-align:center;
     background-color:dimgray;
     border:solid;
 }
+
 body{
     background-image:url("https://i2.pickpik.com/photos/358/223/736/leather-textures-background-fabric-preview.jpg")
 }
+
 .meat{
     color:white;
 }
+
+.image-box {
+    text-align: center;
+}
+
+.citation {
+    font-size: small;
+    font-weight: bold;
+    color: red;
+}
+
 h2{
     color:maroon;
     background-color:darkslategrey;
     border:solid;
     border-color:black;
 }
+
 #disclaimer{
     color:rgb(255, 190, 185);
     font-size:30px;
 }
+
 th{
     font-size:50px;
     background-color:grey;
 }
+
 table{
     margin:auto;
 }
+
 td{
     font-size:50px;
     background-color:grey;
 }
+
 img{
     width:300px;
 }
+
 h4{
     background-color:grey;
     Border:solid;
 }
+
 #body{
     background-color:grey;
     Border:solid;
     border-color:black;
     color:black;
+}
+
+.table{
+    height:500px;
+    width:500px;
+    margin:auto;
+}
+
+#god{
+    height:1000px;
+    width:1000px;
 }
